@@ -1,5 +1,5 @@
 <x-layout title="Criar Contato">
-    <form method="post" action="/contatos/criar">
+    <form method="post" action="{{route('contatos.store')}}">
        @csrf
         <div class="form-group">
             <label for="nome">Nome</label>
