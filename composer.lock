@@ -3626,6 +3626,7 @@
         {
             "name": "symfony/http-foundation",
 <<<<<<< HEAD
+<<<<<<< HEAD
             "version": "v6.3.6",
             "source": {
                 "type": "git",
@@ -3636,6 +3637,18 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/symfony/http-foundation/zipball/c186627f52febe09c6d5270b04f8462687a250a6",
                 "reference": "c186627f52febe09c6d5270b04f8462687a250a6",
+=======
+            "version": "v6.3.7",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/symfony/http-foundation.git",
+                "reference": "59d1837d5d992d16c2628cd0d6b76acf8d69b33e"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/symfony/http-foundation/zipball/59d1837d5d992d16c2628cd0d6b76acf8d69b33e",
+                "reference": "59d1837d5d992d16c2628cd0d6b76acf8d69b33e",
+>>>>>>> 221d317a85d1b511243fb8447d286656344221ab
 =======
             "version": "v6.3.7",
             "source": {
@@ -3696,7 +3709,11 @@
             "homepage": "https://symfony.com",
             "support": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "source": "https://github.com/symfony/http-foundation/tree/v6.3.6"
+=======
+                "source": "https://github.com/symfony/http-foundation/tree/v6.3.7"
+>>>>>>> 221d317a85d1b511243fb8447d286656344221ab
 =======
                 "source": "https://github.com/symfony/http-foundation/tree/v6.3.7"
 >>>>>>> 221d317a85d1b511243fb8447d286656344221ab
@@ -3716,6 +3733,7 @@
                 }
             ],
 <<<<<<< HEAD
+<<<<<<< HEAD
             "time": "2023-10-17T11:32:53+00:00"
         },
         {
@@ -3730,6 +3748,22 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/symfony/http-kernel/zipball/4945f5001b06ff9080cd3d8f1f9f069094c0d156",
                 "reference": "4945f5001b06ff9080cd3d8f1f9f069094c0d156",
+=======
+            "time": "2023-10-28T23:55:27+00:00"
+        },
+        {
+            "name": "symfony/http-kernel",
+            "version": "v6.3.7",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/symfony/http-kernel.git",
+                "reference": "6d4098095f93279d9536a0e9124439560cc764d0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/symfony/http-kernel/zipball/6d4098095f93279d9536a0e9124439560cc764d0",
+                "reference": "6d4098095f93279d9536a0e9124439560cc764d0",
+>>>>>>> 221d317a85d1b511243fb8447d286656344221ab
 =======
             "time": "2023-10-28T23:55:27+00:00"
         },
@@ -3830,7 +3864,11 @@
             "homepage": "https://symfony.com",
             "support": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "source": "https://github.com/symfony/http-kernel/tree/v6.3.6"
+=======
+                "source": "https://github.com/symfony/http-kernel/tree/v6.3.7"
+>>>>>>> 221d317a85d1b511243fb8447d286656344221ab
 =======
                 "source": "https://github.com/symfony/http-kernel/tree/v6.3.7"
 >>>>>>> 221d317a85d1b511243fb8447d286656344221ab
@@ -3850,7 +3888,11 @@
                 }
             ],
 <<<<<<< HEAD
+<<<<<<< HEAD
             "time": "2023-10-21T13:12:51+00:00"
+=======
+            "time": "2023-10-29T14:31:45+00:00"
+>>>>>>> 221d317a85d1b511243fb8447d286656344221ab
 =======
             "time": "2023-10-29T14:31:45+00:00"
 >>>>>>> 221d317a85d1b511243fb8447d286656344221ab
@@ -5072,6 +5114,7 @@
         {
             "name": "symfony/translation",
 <<<<<<< HEAD
+<<<<<<< HEAD
             "version": "v6.3.6",
             "source": {
                 "type": "git",
@@ -5082,6 +5125,18 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/symfony/translation/zipball/869b26c7a9d4b8a48afdd77ab36031909c87e3a2",
                 "reference": "869b26c7a9d4b8a48afdd77ab36031909c87e3a2",
+=======
+            "version": "v6.3.7",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/symfony/translation.git",
+                "reference": "30212e7c87dcb79c83f6362b00bde0e0b1213499"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/symfony/translation/zipball/30212e7c87dcb79c83f6362b00bde0e0b1213499",
+                "reference": "30212e7c87dcb79c83f6362b00bde0e0b1213499",
+>>>>>>> 221d317a85d1b511243fb8447d286656344221ab
 =======
             "version": "v6.3.7",
             "source": {
@@ -5160,7 +5215,11 @@
             "homepage": "https://symfony.com",
             "support": {
 <<<<<<< HEAD
+<<<<<<< HEAD
                 "source": "https://github.com/symfony/translation/tree/v6.3.6"
+=======
+                "source": "https://github.com/symfony/translation/tree/v6.3.7"
+>>>>>>> 221d317a85d1b511243fb8447d286656344221ab
 =======
                 "source": "https://github.com/symfony/translation/tree/v6.3.7"
 >>>>>>> 221d317a85d1b511243fb8447d286656344221ab
@@ -5180,7 +5239,11 @@
                 }
             ],
 <<<<<<< HEAD
+<<<<<<< HEAD
             "time": "2023-10-17T11:32:53+00:00"
+=======
+            "time": "2023-10-28T23:11:45+00:00"
+>>>>>>> 221d317a85d1b511243fb8447d286656344221ab
 =======
             "time": "2023-10-28T23:11:45+00:00"
 >>>>>>> 221d317a85d1b511243fb8447d286656344221ab
